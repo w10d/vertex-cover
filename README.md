@@ -15,5 +15,5 @@ The following n lines contains the vertex weights (positive integer).
 
 # Usage
 You need Python packages pulp and gurobipy. You also need Gurobi licence key that should be pasted in the field "options".
-If executed with the parameter "-w" the algorithm will read the vertex weights (the last n line, as described above).
-Otherwise, it will stop reading input after the description of edges, and each vertex will be assign weight 1.0.
+If executed with the parameter "-w" the algorithm will read the vertex weights (the last n lines, as described above).
+Otherwise, it will stop reading input after the description of edges, and each vertex will be assigned weight 1.0.
