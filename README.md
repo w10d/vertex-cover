@@ -14,7 +14,7 @@ The vertices are indexed from 0 to n-1.
 The following n lines contains the vertex weights (positive integer).
 
 These files are named with the following convention: file graph40-e5.in describes a random graph on roughly 10^5 vertices with a planted vertex cover of size 40.
-The larger input files are located in my website: https://www.mimuw.edu.pl/~mw277619/stuff/ilp/
+The larger input files are located on my website: https://www.mimuw.edu.pl/~mw277619/stuff/ilp/
 
 # Usage
 You need Python packages pulp and gurobipy. You also need Gurobi licence key that should be pasted in the field "options".
